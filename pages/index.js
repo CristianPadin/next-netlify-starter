@@ -13,7 +13,7 @@ export default function Home() {
       <main>
         <Header title="Bienvenido a Duelist Vanguard!" />
         <p className="description">
-          Estamos preparando la pagina web, estate atento a nuestras redes sociales ya que avisaremos a lo que este preparada.
+          Estamos preparando la pagina web, estate atento a nuestras redes sociales ya que avisaremos cuando este preparada.
         </p>
       </main>
 
