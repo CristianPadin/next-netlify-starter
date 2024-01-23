@@ -11,9 +11,9 @@ export default function Home() {
       </Head>
 
       <main>
-        <Header title="Bienvenido!" />
+        <Header title="Bienvenido a Duelist Vanguard!" />
         <p className="description">
-          Get started by editing <code>pages/index.js</code>
+          Estamos preparando la pagina web, estate atento a nuestras redes sociales ya que avisaremos a lo que este preparada.
         </p>
       </main>
 
